@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: fragmentexamples - UI apps
+Content-Package-Roots: /apps/fragmentexamples,/etc/packages/adobe/cq60
+ /core.wcm.components.all-2.4.0.zip,/etc/packages/adobe/cq60/core.wcm.
+ components.examples-2.4.0.zip
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: mankumar45
+Implementation-Vendor-Id: fragmentexamples
+Content-Package-Type: mixed
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_231
+Content-Package-Description: UI apps package for fragmentexamples
+Content-Package-Id: fragmentexamples:fragmentexamples.fragmentexamples
+ .ui.apps:1.0-SNAPSHOT
+

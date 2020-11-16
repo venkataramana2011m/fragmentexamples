@@ -1,0 +1,5 @@
+fragmentexamples\core\servlets\SimpleServletTest.class
+fragmentexamples\core\schedulers\SimpleScheduledTaskTest.class
+fragmentexamples\core\filters\LoggingFilterTest.class
+fragmentexamples\core\models\HelloWorldModelTest.class
+fragmentexamples\core\listeners\SimpleResourceListenerTest.class

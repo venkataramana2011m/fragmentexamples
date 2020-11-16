@@ -1,0 +1,11 @@
+fragmentexamples\core\models\HelloWorldModel.class
+fragmentexamples\core\servlets\MovieServlet.class
+fragmentexamples\core\filters\LoggingFilter.class
+fragmentexamples\core\schedulers\SimpleScheduledTask$Config.class
+fragmentexamples\core\servlets\SimpleServlet.class
+fragmentexamples\core\models\ContentFragmentActor.class
+fragmentexamples\core\models\ContentFragmentMovie.class
+fragmentexamples\core\package-info.class
+fragmentexamples\core\models\MovieListModel.class
+fragmentexamples\core\schedulers\SimpleScheduledTask.class
+fragmentexamples\core\listeners\SimpleResourceListener.class

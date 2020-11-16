@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: fragmentexamples - UI content
+Content-Package-Roots: /conf/fragmentexamples,/content/dam/fragmentexa
+ mples,/content/fragmentexamples
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: mankumar45
+Implementation-Vendor-Id: fragmentexamples
+Content-Package-Type: content
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_231
+Content-Package-Description: UI content package for fragmentexamples
+Content-Package-Id: fragmentexamples:fragmentexamples.fragmentexamples
+ .ui.content:1.0-SNAPSHOT
+

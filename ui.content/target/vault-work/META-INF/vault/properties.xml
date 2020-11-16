@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>fragmentexamples - UI content</comment>
+<entry key="createdBy">mankumar45</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="name">fragmentexamples.fragmentexamples.ui.content</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2020-08-08T17:44:50.271+05:30</entry>
+<entry key="groupId">fragmentexamples</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">fragmentexamples</entry>
+<entry key="description">UI content package for fragmentexamples</entry>
+<entry key="artifactId">fragmentexamples.fragmentexamples.ui.content</entry>
+</properties>
